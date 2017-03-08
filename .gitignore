@@ -1,0 +1,6 @@
+# ignore all files in the node_modules
+# user who clone the project ,just only use npm install commond to install the node_modules modules.
+node_modules/
+
+# ignore the .idea/ folder
+.idea/
